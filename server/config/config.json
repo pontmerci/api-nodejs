@@ -1,18 +1,23 @@
 {
   "development": {
-    "username": "waiyaki",
-    "password": null,
-    "database": "todos-dev",
-    "host": "127.0.0.1",
-    "port": 5432,
-    "dialect": "postgres"
+    "username": "marcelo_ra",
+    "password": "sysecarm",
+    "database": "BMR_WS",
+    "host": "srvsqlt1",
+    "dialect": "mssql"
   },
   "test": {
-    "username": "waiyaki",
-    "password": null,
-    "database": "todos-test",
-    "host": "127.0.0.1",
-    "port": 5432,
-    "dialect": "postgres"
+    "username": "marcelo_ra",
+    "password": "sysecarm",
+    "database": "BMR_WS",
+    "host": "srvsqlt1",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "marcelo_ra",
+    "password": "sysecarm",
+    "database": "BMR",
+    "host": "srvsqlt1",
+    "dialect": "mssql"
   }
 }
