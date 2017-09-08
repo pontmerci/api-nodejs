@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "marcelo_ra",
-    "password": "sysecarm",
-    "database": "BMR_WS",
-    "host": "srvsqlt1",
-    "dialect": "mssql"
+    "username": "root",
+    "password": "root",
+    "database": "stock",
+    "host": "localhost",
+    "port": "8889",
+    "dialect": "mysql"
   },
   "test": {
     "username": "marcelo_ra",
